@@ -13,7 +13,7 @@ This is where I keep my projects: the code, the charts and what I learned along 
 | Project | Result | Tools |
 |---|---|---|
 | **[Boardroom Network & Portfolio Risk](https://github.com/duynguyen1908/boardroom-network-portfolio-risk)**<br><sub>Nov 2026</sub> | **24.17% vs 22.53%** return: the most connected company boards didn't make the best portfolio | `Python` `NetworkX` `SciPy` |
-| **[Food-Safety Risk Triage, Chicago](https://github.com/duynguyen1908/risk-scoring-triage-model)**<br><sub>Sem 2 2026</sub> | **1.62× lift**: the riskiest 20% of visits caught 32.4% of serious violations | `Python` `scikit-learn` `Tableau` |
+| **[Food-Safety Risk Triage, Chicago](https://github.com/duynguyen1908/risk-scoring-triage-model)**<br><sub>Oct–Nov 2026</sub> | **1.62× lift**: the riskiest 20% of visits caught 32.4% of serious violations | `Python` `scikit-learn` `Tableau` |
 | **[Scripted vs GenAI Banking Chatbot](https://github.com/duynguyen1908/banking-chatbot-evaluation)**<br><sub>Oct–Nov 2026</sub> | **86% vs 67%** of tasks completed, tested with 32 people | `Voiceflow` `JavaScript` `Python` |
 | **[Do Sales Explain Stock Prices?](https://github.com/duynguyen1908/asx-sales-stock-forecasting)**<br><sub>Sep 2026</sub> | **25,451 ASX firm-years**: the sales effect disappears after controls | `Python` `statsmodels` `Tableau` |
 | **[Woolworths Equity Valuation](https://github.com/duynguyen1908/woolworths-ddm-valuation)**<br><sub>May 2026</sub> | **$7–$18** intrinsic value vs a **$32.93** market price | `Excel` |
@@ -21,7 +21,7 @@ This is where I keep my projects: the code, the charts and what I learned along 
 
 *Working on next: a claims and churn model on insurance data, with a Tableau dashboard.*
 
-### 💼 Before analytics
+### 💼 Professional
 
 - **Livwell Asia** (2023–2025): looked after 26 corporate insurance clients and worked with IT on claims and policy features for the client portal
 - **AIESEC Australia** (2022–2023): led business development on the national board and raised $200K+ in partnerships
