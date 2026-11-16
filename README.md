@@ -32,4 +32,10 @@ Next up, in December: a claims and churn model on insurance data, with a Tableau
 **AIESEC IN VIETNAM** · Not-for-profit, Ho Chi Minh City<br>
 *Head of Marketing, National Board* · Jun 2021 – Jul 2022
 - Rebuilt the website on a budget under USD 500 (Figma, JavaScript, Google Analytics), reaching 300K landing-page visits in the first 6 months
-- Automated
+- Automated Looker Studio dashboards and launched online registration, tracking a 20% conversion rate from landing page to application
+
+## Tools
+
+Python (pandas, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK), SQL, R, Excel, Tableau, Power BI, Looker Studio.
+
+Outside work and study, I shoot travel and street photography, I play piano and being a freelance musician.
