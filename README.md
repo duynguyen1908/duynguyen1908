@@ -1,53 +1,35 @@
-# Hi, I'm Daniel Nguyen 👋
+<img src="assets/banner.svg" alt="Daniel Nguyen, Data and Business Analyst" width="100%">
 
-**Master of Business Analytics @ University of Adelaide** · Data & Business Analyst for **banking and insurance**
+I'm Daniel, a Master of Business Analytics student at the University of Adelaide (finishing July 2027). Before that I worked in client services at Livwell Asia, a health and general insurance platform, where I looked after corporate accounts and worked with our IT team on the claims and policy side of the client portal. That job is the reason I moved into analytics. I want to work on the data behind those decisions, in banking or insurance.
 
-> **Capturing the world through my lens, and organisations through their data.**
+[LinkedIn](https://www.linkedin.com/in/duynguyen1908/) · [Tableau Public](https://public.tableau.com/app/profile/duy.nguyen8153) · Adelaide, Australia
 
-📍 Adelaide, Australia · 🔗 [LinkedIn](https://www.linkedin.com/in/duynguyen1908/)
+## Projects
 
----
+Most recent first. Each card opens the repo with the code, charts and write-up.
 
-## 📂 Featured projects
+<a href="https://github.com/duynguyen1908/boardroom-network-portfolio-risk"><img src="assets/card-boardroom.svg" width="49%" alt="Boardroom Network & Portfolio Risk"></a>
+<a href="https://github.com/duynguyen1908/risk-scoring-triage-model"><img src="assets/card-risk-triage.svg" width="49%" alt="Food-Safety Risk Triage, Chicago"></a>
+<a href="https://github.com/duynguyen1908/banking-chatbot-evaluation"><img src="assets/card-chatbot.svg" width="49%" alt="Scripted vs GenAI Banking Chatbot"></a>
+<a href="https://github.com/duynguyen1908/asx-sales-stock-forecasting"><img src="assets/card-asx.svg" width="49%" alt="Do Sales Explain Stock Prices?"></a>
+<a href="https://github.com/duynguyen1908/woolworths-ddm-valuation"><img src="assets/card-woolworths.svg" width="49%" alt="Woolworths Group equity valuation"></a>
+<a href="https://github.com/duynguyen1908/ecommerce-campaign-analytics"><img src="assets/card-ecommerce.svg" width="49%" alt="E-commerce Campaign Dashboard"></a>
 
-*Newest first*
+Next up, in December: a claims and churn model on insurance data, with a Tableau dashboard.
 
-| Date | Project | What it shows | Result |
-|---|---|---|---|
-| Dec 2026 | **Insurance Claims Analytics** *(coming soon)* | Claims / churn prediction + Tableau dashboard | — |
-| Nov 2026 | [**Boardroom Network & Portfolio Risk**](https://github.com/duynguyen1908/boardroom-network-portfolio-risk) | Network centrality, portfolio optimisation, Monte Carlo VaR, text analytics | Most-connected boards did **not** win: Inner Circle **24.17% vs 22.53%** return, lower 99% VaR (**3.92% vs 4.14%**); 25% risk cap shown infeasible (min **26.6%**) |
-| Jul–Nov 2026 | [**Food-Safety Risk Triage (Chicago)**](https://github.com/duynguyen1908/risk-scoring-triage-model) | Big-data wrangling (316K records), 6 ML models, regression, Tableau | Riskiest 20% of visits caught **32.4%** of serious violations (**1.62×**) on unseen 2025 data; risk-first schedule finds **~50% more** problems in month one at no extra cost |
-| Oct–Nov 2026 | [**Scripted vs GenAI Banking Chatbot**](https://github.com/duynguyen1908/banking-chatbot-evaluation) | Voiceflow, user study, NLP (TF-IDF, VADER) | GenAI fully completed **86% vs 67%** of tasks (paired t-test **p = 0.001**, n = 32) → hybrid design |
-| Sep 2026 | [**Do Sales Explain Stock Prices? (ASX)**](https://github.com/duynguyen1908/asx-sales-stock-forecasting) | Regression, ARIMA, Monte Carlo, Tableau | 25,451 firm-years; showed the sales effect vanishes after controls; ARIMA beat the benchmark on a held-out year (Cochlear **0.050 vs 0.080**) |
-| May 2026 | [**Woolworths Equity Valuation**](https://github.com/duynguyen1908/woolworths-ddm-valuation) | Two-stage DDM, CAPM, Hamada beta, sensitivity | Intrinsic value **$7.05–$18.10** vs **$32.93** market price → AVOID |
-| May 2026 | [**E-commerce Campaign Dashboard**](https://github.com/duynguyen1908/ecommerce-campaign-analytics) | Looker Studio, KPI design | Found the lowest-CPO campaign ($35.38) and a campaign 12.1% over target |
+## Work
 
-## 🛠️ Toolkit
+**LIVWELL ASIA** · Health and general insurance platform<br>
+*Client Services Manager* · Nov 2023 – Jun 2025
+- Managed 26 corporate client accounts worth AUD 1.5M in contract value
+- Delivered 4 B2B portal features with the IT team (group policy management, support tickets, online claims, client claim reports): gathered requirements, wrote specifications and tested each feature before release
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+**AIESEC AUSTRALIA** · Not-for-profit, Sydney<br>
+*Head of Business Development, National Board* · Jun 2022 – Jul 2023
+- Raised $200K+ in partnership and sponsorship funding (75% of national target) through 7 partner agreements and 30+ sponsors across 13 local chapters
+- Partnered with EY and Electrolux Food Foundation to run a UN SDG education program in universities and high schools across 4 states
 
-| Area | Skills |
-|---|---|
-| **Python libraries** | pandas, NumPy, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK |
-| **Machine learning** | Classification with time-based validation, recall and lift, risk ranking |
-| **Statistics & forecasting** | Regression (OLS, fixed effects), ARIMA, t-tests, Monte Carlo simulation |
-| **Finance & risk** | Value at Risk, portfolio optimisation, equity valuation (DDM, CAPM) |
-| **Text analytics** | TF-IDF, sentiment analysis (VADER), keyword classification |
-| **Other** | Network analysis, dashboard design, KPI reporting |
-
-## 💼 Experience
-| Role | Organisation | Dates | Highlights |
-|---|---|---|---|
-| **Client Services Manager** | Livwell Asia (health & general insurance platform) | Nov 2023 – Jun 2025 | Managed 26 corporate client accounts worth **AUD 1.5M** in contract value; delivered **4 B2B portal features** with IT (group policy management, support tickets, online claims, client claim reports) |
-| **Head of Business Development, National Board** | AIESEC Australia (not-for-profit) | Jun 2022 – Jul 2023 | Raised **$200K+** in partnership funding (75% of national target) through 7 partner agreements and 30+ sponsors across 13 chapters, including EY and Electrolux Food Foundation |
-| **Head of Marketing, National Board** | AIESEC in Vietnam (not-for-profit) | Jun 2021 – Jul 2022 | Rebuilt the website and Looker Studio reporting for under USD 500: **300K** landing-page visits in 6 months, **20%** conversion to program applications |
-
-## 🌱 Currently
-Building an insurance claims analytics project · Learning SQL · Open to **analyst internships and graduate roles** in finance & insurance
+**AIESEC IN VIETNAM** · Not-for-profit, Ho Chi Minh City<br>
+*Head of Marketing, National Board* · Jun 2021 – Jul 2022
+- Rebuilt the website on a budget under USD 500 (Figma, JavaScript, Google Analytics), reaching 300K landing-page visits in the first 6 months
+- Automated
