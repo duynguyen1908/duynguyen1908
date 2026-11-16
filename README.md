@@ -1,8 +1,8 @@
-# Hi, I'm Duy (D) Nguyen 👋
+# Hi, I'm Daniel Nguyen 👋
 
 **Master of Business Analytics @ University of Adelaide** · Data & Business Analyst for **banking and insurance**
 
-> **Capturing the world through my lens, and the business through its data.**
+> **Capturing the world through my lens, and organisations through their data.**
 
 📍 Adelaide, Australia · 🔗 [LinkedIn](https://www.linkedin.com/in/duynguyen1908/)
 
