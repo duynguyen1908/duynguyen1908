@@ -24,20 +24,30 @@
 
 ## 🛠️ Toolkit
 
-**Analytics:** Python (pandas, NumPy, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK) · R · SQL (basics) · Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**BI & visualisation:** Tableau · Power BI · Looker Studio
-
-**Methods:** classification with time-based validation (lift, calibration) · regression (OLS, fixed effects, GLM) · ARIMA · Monte Carlo VaR & Expected Shortfall · portfolio optimisation · network analysis · NLP (TF-IDF, Naive Bayes, topic modelling) · RFM, CLV, cohort analysis, A/B testing
-
-**Finance:** equity valuation (DDM, CAPM) · financial statements · claims and policy administration
+| Area | Skills |
+|---|---|
+| **Python libraries** | pandas, NumPy, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK |
+| **Machine learning** | Classification with time-based validation, recall and lift, risk ranking |
+| **Statistics & forecasting** | Regression (OLS, fixed effects), ARIMA, t-tests, Monte Carlo simulation |
+| **Finance & risk** | Value at Risk, portfolio optimisation, equity valuation (DDM, CAPM) |
+| **Text analytics** | TF-IDF, sentiment analysis (VADER), keyword classification |
+| **Other** | Network analysis, dashboard design, KPI reporting |
 
 ## 💼 Experience
 | Role | Organisation | Dates | Highlights |
 |---|---|---|---|
 | **Client Services Manager** | Livwell Asia (health & general insurance platform) | Nov 2023 – Jun 2025 | Managed 26 corporate client accounts worth **AUD 1.5M** in contract value; delivered **4 B2B portal features** with IT (group policy management, support tickets, online claims, client claim reports) |
-| **Head of Business Development, National Board** | AIESEC Australia (non-profit) | Jun 2022 – Jul 2023 | Raised **$200K+** in partnership funding (75% of national target) through 7 partner agreements and 30+ sponsors across 13 chapters, including EY and Electrolux Food Foundation |
-| **Head of Marketing, National Board** | AIESEC in Vietnam (non-profit) | Jun 2021 – Jul 2022 | Rebuilt the website and Looker Studio reporting for under USD 500: **300K** landing-page visits in 6 months, **20%** conversion to program applications |
+| **Head of Business Development, National Board** | AIESEC Australia (not-for-profit) | Jun 2022 – Jul 2023 | Raised **$200K+** in partnership funding (75% of national target) through 7 partner agreements and 30+ sponsors across 13 chapters, including EY and Electrolux Food Foundation |
+| **Head of Marketing, National Board** | AIESEC in Vietnam (not-for-profit) | Jun 2021 – Jul 2022 | Rebuilt the website and Looker Studio reporting for under USD 500: **300K** landing-page visits in 6 months, **20%** conversion to program applications |
 
 ## 🌱 Currently
 Building an insurance claims analytics project · Learning SQL · Open to **analyst internships and graduate roles** in finance & insurance
