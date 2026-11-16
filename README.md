@@ -25,8 +25,11 @@
 ## 🛠️ Toolkit
 
 **Analytics:** Python (pandas, NumPy, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK) · R · SQL (basics) · Excel
+
 **BI & visualisation:** Tableau · Power BI · Looker Studio
+
 **Methods:** classification with time-based validation (lift, calibration) · regression (OLS, fixed effects, GLM) · ARIMA · Monte Carlo VaR & Expected Shortfall · portfolio optimisation · network analysis · NLP (TF-IDF, Naive Bayes, topic modelling) · RFM, CLV, cohort analysis, A/B testing
+
 **Finance:** equity valuation (DDM, CAPM) · financial statements · claims and policy administration
 
 ## 💼 Experience
