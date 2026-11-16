@@ -36,4 +36,4 @@ This is where I keep my projects: the code, the charts and what I learned along 
 
 ### 📷 Outside work
 
-I shoot travel and street photography, produce music and teach piano.
+I shoot travel and street photography, freelance produce music and tutor piano.
