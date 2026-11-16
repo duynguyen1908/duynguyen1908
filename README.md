@@ -1,41 +1,67 @@
-<img src="assets/banner.svg" alt="Daniel Nguyen, Data and Business Analyst" width="100%">
+## Daniel Nguyen
 
-I'm Daniel, a Master of Business Analytics student at the University of Adelaide (finishing July 2027). Before that I worked in client services at Livwell Asia, a health and general insurance platform, where I looked after corporate accounts and worked with our IT team on the claims and policy side of the client portal. That job is the reason I moved into analytics. I want to work on the data behind those decisions, in banking or insurance.
+*Capturing the world through my lens, and organisations through their data.*
+
+Hi, I'm Daniel. I'm doing a Master of Business Analytics at the University of Adelaide (finishing July 2027). Before that I worked in client services at an insurance platform, and seeing how claims and policy data shaped everyday decisions is what pulled me into analytics. Banking and insurance are where I'd like to end up.
+
+This is where I keep my projects: the code, the charts and what I learned along the way.
 
 [LinkedIn](https://www.linkedin.com/in/duynguyen1908/) · [Tableau Public](https://public.tableau.com/app/profile/duy.nguyen8153) · Adelaide, Australia
 
-## Projects
+### Projects
 
-Most recent first. Each card opens the repo with the code, charts and write-up.
+**[Boardroom Network & Portfolio Risk](https://github.com/duynguyen1908/boardroom-network-portfolio-risk)** &nbsp;·&nbsp; <sub>NOV 2026</sub>
+> **24.17% vs 22.53%** return. The most connected company boards didn't make the best portfolio, and they carried more downside risk.
 
-<a href="https://github.com/duynguyen1908/boardroom-network-portfolio-risk"><img src="assets/card-boardroom.svg" width="49%" alt="Boardroom Network & Portfolio Risk"></a>
-<a href="https://github.com/duynguyen1908/risk-scoring-triage-model"><img src="assets/card-risk-triage.svg" width="49%" alt="Food-Safety Risk Triage, Chicago"></a>
-<a href="https://github.com/duynguyen1908/banking-chatbot-evaluation"><img src="assets/card-chatbot.svg" width="49%" alt="Scripted vs GenAI Banking Chatbot"></a>
-<a href="https://github.com/duynguyen1908/asx-sales-stock-forecasting"><img src="assets/card-asx.svg" width="49%" alt="Do Sales Explain Stock Prices?"></a>
-<a href="https://github.com/duynguyen1908/woolworths-ddm-valuation"><img src="assets/card-woolworths.svg" width="49%" alt="Woolworths Group equity valuation"></a>
-<a href="https://github.com/duynguyen1908/ecommerce-campaign-analytics"><img src="assets/card-ecommerce.svg" width="49%" alt="E-commerce Campaign Dashboard"></a>
+`Python` `NetworkX` `SciPy` `Monte Carlo VaR`
 
-Next up, in December: a claims and churn model on insurance data, with a Tableau dashboard.
+<br>
 
-## Work
+**[Food-Safety Risk Triage, Chicago](https://github.com/duynguyen1908/risk-scoring-triage-model)** &nbsp;·&nbsp; <sub>SEM 2 2026</sub>
+> **1.62× lift.** Ranked 316K inspection records by risk; the riskiest 20% of visits caught 32.4% of serious violations on unseen data.
 
-**LIVWELL ASIA** · Health and general insurance platform<br>
-*Client Services Manager* · Nov 2023 – Jun 2025
-- Managed 26 corporate client accounts worth AUD 1.5M in contract value
-- Delivered 4 B2B portal features with the IT team (group policy management, support tickets, online claims, client claim reports): gathered requirements, wrote specifications and tested each feature before release
+`Python` `scikit-learn` `statsmodels` `Tableau`
 
-**AIESEC AUSTRALIA** · Not-for-profit, Sydney<br>
-*Head of Business Development, National Board* · Jun 2022 – Jul 2023
-- Raised $200K+ in partnership and sponsorship funding (75% of national target) through 7 partner agreements and 30+ sponsors across 13 local chapters
-- Partnered with EY and Electrolux Food Foundation to run a UN SDG education program in universities and high schools across 4 states
+<br>
 
-**AIESEC IN VIETNAM** · Not-for-profit, Ho Chi Minh City<br>
-*Head of Marketing, National Board* · Jun 2021 – Jul 2022
-- Rebuilt the website on a budget under USD 500 (Figma, JavaScript, Google Analytics), reaching 300K landing-page visits in the first 6 months
-- Automated Looker Studio dashboards and launched online registration, tracking a 20% conversion rate from landing page to application
+**[Scripted vs GenAI Banking Chatbot](https://github.com/duynguyen1908/banking-chatbot-evaluation)** &nbsp;·&nbsp; <sub>OCT–NOV 2026</sub>
+> **86% vs 67%** of tasks completed. Built the same banking guide twice and tested both versions with 32 people.
 
-## Tools
+`Voiceflow` `JavaScript` `Python` `TF-IDF` `VADER`
 
-Python (pandas, statsmodels, scikit-learn, SciPy, NetworkX, spaCy, NLTK), SQL, R, Excel, Tableau, Power BI, Looker Studio.
+<br>
 
-Outside work and study, I shoot travel and street photography, I play piano and being a freelance musician.
+**[Do Sales Explain Stock Prices?](https://github.com/duynguyen1908/asx-sales-stock-forecasting)** &nbsp;·&nbsp; <sub>SEP 2026</sub>
+> **25,451 ASX firm-years.** The sales effect disappears once fundamentals are controlled for. Includes ARIMA forecasts and a Monte Carlo simulation.
+
+`Python` `statsmodels` `ARIMA` `Tableau`
+
+<br>
+
+**[Woolworths Equity Valuation](https://github.com/duynguyen1908/woolworths-ddm-valuation)** &nbsp;·&nbsp; <sub>MAY 2026</sub>
+> **$7–$18 vs $32.93.** A two-stage dividend discount model valued the shares well below their market price.
+
+`Excel` `DDM` `CAPM` `Sensitivity analysis`
+
+<br>
+
+**[E-commerce Campaign Dashboard](https://github.com/duynguyen1908/ecommerce-campaign-analytics)** &nbsp;·&nbsp; <sub>MAY 2026</sub>
+> **$35.38 per order.** Found the most cost-efficient campaign, and one running 12.1% over its cost target.
+
+`Looker Studio` `Google Sheets`
+
+<sub>Working on next: a claims and churn model on insurance data, with a Tableau dashboard.</sub>
+
+### Before analytics
+
+- **Livwell Asia** (2023–2025): looked after 26 corporate insurance clients and worked with IT on claims and policy features for the client portal
+- **AIESEC Australia** (2022–2023): led business development on the national board and raised $200K+ in partnerships
+- **AIESEC in Vietnam** (2021–2022): ran marketing on the national board and rebuilt the website on a USD 500 budget
+
+### Tools
+
+Python · SQL · R · Excel · Tableau · Power BI · Looker Studio
+
+### Outside work
+
+I shoot travel and street photography, produce music and teach piano.
