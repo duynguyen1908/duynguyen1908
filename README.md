@@ -1,6 +1,6 @@
 ## Daniel Nguyen
 
-*Capturing the world through my lens, and organisations through their data.*
+*Capturing the world through my lens and organisations through their data.*
 
 Hi, I'm Daniel. I'm doing a Master of Business Analytics at the University of Adelaide (finishing July 2027). Before that I worked in client services at an insurance platform, and seeing how claims and policy data shaped everyday decisions is what pulled me into analytics. Banking and insurance are where I'd like to end up.
 
