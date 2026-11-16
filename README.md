@@ -43,4 +43,4 @@ Ran 7 national campaigns reaching 2M+ young people and rebuilt the website on a 
 
 ### 📷 Outside work
 
-I shoot travel and street photography, produce music and teach piano.
+I shoot travel and street photography; I also enjoy tutoring piano and being a freelance musician. 
