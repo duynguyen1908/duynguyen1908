@@ -4,7 +4,7 @@
 
 Hi, I'm Daniel. I'm doing a Master of Business Analytics at the University of Adelaide (finishing July 2027). Before that I worked in client services at an insurance platform, and seeing how claims and policy data shaped everyday decisions is what pulled me into analytics. Banking and insurance are where I'd like to end up.
 
-Below are short summaries of my analytics projects. Happy to walk through any of them in more detail.
+Below are short summaries of my analytics projects. Full notes and code are available on request.
 
 [LinkedIn](https://www.linkedin.com/in/duynguyen1908/) · [Tableau Public](https://public.tableau.com/app/profile/duy.nguyen8153) · Adelaide, Australia
 
@@ -34,11 +34,4 @@ Ran 7 national campaigns reaching 2M+ young people and rebuilt the website on a 
 
 ### 🛠️ Tools & skills
 
-**Languages:** `Python` `SQL` `R` `JavaScript`<br>
-**Python libraries:** `pandas` `scikit-learn` `statsmodels` `SciPy` `NetworkX` `spaCy` `NLTK`<br>
-**BI & spreadsheets:** `Tableau` `Power BI` `Looker Studio` `Excel`<br>
-**Methods:** `Machine learning` `Regression` `ARIMA forecasting` `Monte Carlo VaR` `Portfolio optimisation` `Equity valuation` `NLP`
-
-### 📷 Outside work
-
-I shoot travel and street photography; I also enjoy tutoring piano and being a freelance musician.
+**Languages:** `Python` `SQL` `R`
