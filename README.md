@@ -24,7 +24,7 @@ Below are short summaries of my analytics projects. The 🔒 column shows what I
 ### 💼 Professional
 
 **Livwell Asia** · Client Services Manager · 2023–2025<br>
-Managed 26 corporate insurance clients (AUD 1.5M) and led 4 claims and policy portal features with IT.
+Managed 26 corporate insurance clients (AUD 1.5M) and initiated the claim and policy portal features with IT.
 
 **AIESEC Australia** · Head of Business Development, National Board · 2022–2023<br>
 Led partnerships for 13 chapters nationally, fundraising $200K+ with partners.
