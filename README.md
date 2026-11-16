@@ -41,4 +41,4 @@ Ran 7 national campaigns reaching 2M+ young people and rebuilt the website on a 
 
 ### 📷 Outside work
 
-I shoot travel and street photography ([@duyn.photography](https://www.instagram.com/duyn.photography/) on Instagram); I also enjoy tutoring piano and being a freelance musician.
+I shoot travel and street photography ([@duyn.photography](https://www.instagram.com/duyn.photography/) on Instagram); I also enjoy tutoring piano and being a freelance musician. I'm also playing tennis and training for skiing.  
