@@ -27,13 +27,12 @@ This is where I keep my projects: the code, the charts and what I learned along 
 Managed 26 corporate insurance clients (AUD 1.5M) and led 4 claims and policy portal features with IT.
 
 **AIESEC Australia** · Head of Business Development, National Board · 2022–2023<br>
-Led partnerships for 13 chapters nationally, raising $200K+ with partners including EY and Electrolux Food Foundation.
+Led partnerships for 13 chapters nationally, fundraising $200K+ with partners
 
 **AIESEC in Vietnam** · Head of Marketing, National Board · 2021–2022<br>
-Ran 7 national campaigns reaching 2M+ young people and rebuilt the website on a USD 500 budget.
+Ran 7 national campaigns reaching 2M+ young people and rebuilt the website on a limited budget.
 
-**AIESEC in Vietnam** · Project Head and Local Vice President · 2020–2022<br>
-Led a 25-person team to national Best Local Chapter, and a 17-person project with Lazada reaching 1M+ young people.
+
 
 ### 🛠️ Tools & skills
 
