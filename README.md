@@ -17,9 +17,7 @@ Below are short summaries of my analytics projects. The 🔒 column shows what I
 | **[Scripted vs GenAI Banking Chatbot](https://github.com/duynguyen1908/banking-chatbot-evaluation)**<br><sub>Oct–Nov 2026</sub> | **86% vs 67%** of tasks completed, tested with 32 people | `Voiceflow` `JavaScript` `Python` | Notes + charts |
 | **[Do Sales Explain Stock Prices?](https://github.com/duynguyen1908/asx-sales-stock-forecasting)**<br><sub>Sep 2026</sub> | **25,451 ASX firm-years**: the sales effect disappears after controls | `Python` `statsmodels` `Tableau` | Code + notes |
 | **[ASX Retailer Equity Valuation](https://github.com/duynguyen1908/asx-equity-valuation-ddm)**<br><sub>May 2026</sub> | Intrinsic value **well below** the market price: recommendation to avoid | `Excel` | Excel model + report |
-| **CEO Pay Gap & Firm Performance**<br><sub>May 2026</sub> | **9,082 firm-years**: a bigger CEO pay gap goes with higher ROA, even with firm fixed effects | `Python` `statsmodels` | Code + notes |
 | **[E-commerce Campaign Dashboard](https://github.com/duynguyen1908/ecommerce-campaign-analytics)**<br><sub>May 2026</sub> | **$35.38** per order for the most cost-efficient campaign | `Looker Studio` | Notes + dashboard |
-| **House Price Regression & Selling Advice**<br><sub>Nov 2025</sub> | **89.5%** of price variation explained; all diagnostics passed; recommended the agent with the higher net price | `Stata` `Excel` | Notes + Stata output |
 
 *Working on next: a claims and churn model on insurance data, with a Tableau dashboard.*
 
