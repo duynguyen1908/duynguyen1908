@@ -1,4 +1,4 @@
-## Daniel Nguyen
+## Duy/Daniel Nguyen
 
 *Capturing the world through my lens, and organisations through their data.*
 
